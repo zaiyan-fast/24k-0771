@@ -1,0 +1,13 @@
+1. START
+2. INPUT num
+3. IF num==0 THEN
+	PRINT “zero”
+4. ELSE IF num>0 THEN
+
+	PRINT “Number is Positive”
+
+5. ELSE
+
+	PRINT “Number is Negative”
+
+6. END
